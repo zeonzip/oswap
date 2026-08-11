@@ -2,6 +2,11 @@
 name = "oswap"
 version = "0.1.0"
 edition = "2024"
+description = "A crate to easily manage cross-platform code interfaces used by one universal codebase."
+license = "MIT"
+license-file = "LICENSE"
+documentation = "https://docs.rs/oswap"
+repository = "https://github.com/zeonzip/oswap"
 
 [lib]
 proc-macro = true
